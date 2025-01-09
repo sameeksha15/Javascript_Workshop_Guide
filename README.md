@@ -27,7 +27,7 @@ Welcome to the **JavaScript Workshop Guide** repository! This repository contain
 - **Consuming Promises**
 - **Error Handling with Promises**
 
-### 6. [Promise Chaining](https://github.com/sameeksha15/Javascript_Workshop_Guide/blob/main/promise_chaining.js)
+### 6. [Promise Chaining](https://github.com/sameeksha15/Javascript_Workshop_Guide/blob/main/promise_chainig.js)
 - **Chaining Multiple Promises**
 
 ### 7. [Async Await](https://github.com/sameeksha15/Javascript_Workshop_Guide/blob/main/async_await.js)
